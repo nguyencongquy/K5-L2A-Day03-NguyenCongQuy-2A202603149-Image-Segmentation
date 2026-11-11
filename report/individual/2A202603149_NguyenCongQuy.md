@@ -2,7 +2,7 @@
 
 - Mã học viên theo lớp: 2A202603149
 - Ngày thực hành: 11/11/2026. Môi trường: CVAT local.
-- Công cụ: CVAT, SAM2, YOLO và script kiểm cấu trúc của repo. Tôi thao tác gán nhãn trong CVAT ở Medium. Codex hỗ trợ tạo đề xuất bằng YOLO và SAM2, rà và chỉnh mask, bổ sung nhãn ở Medium, gán nhãn Hard và sáu checkpoint, xuất ZIP và chuẩn bị báo cáo.
+- Công cụ: CVAT, SAM2, YOLO và script kiểm cấu trúc của repo. Tôi thao tác trong CVAT và hầu như không trực tiếp dùng SAM2 ở Easy và Medium. Codex hỗ trợ tạo đề xuất bằng YOLO và SAM2, rà và chỉnh mask, bổ sung nhãn ở Medium, gán nhãn Hard và sáu checkpoint, xuất ZIP và chuẩn bị báo cáo.
 
 ## 1. Bài đã nộp
 
